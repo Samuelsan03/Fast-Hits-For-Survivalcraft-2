@@ -1,0 +1,12 @@
+<Minecraft1_12HitUpdate>
+	
+	<!--玩家-->
+	<EntityTemplate Name="Player" Guid="4be6c1c5-d65d-4537-8a8b-a391969e6dc2">
+		
+		<MemberComponentTemplate Name="McHit" Guid="dc0feddf-2021-6666-ccdd-2007badf1128" InheritanceParent="81a44c6a-c30a-4f53-8d64-0c30aabab8f9">
+			<Parameter Name="Class" Value="Minecraft1_9HitUpdate.ComponentMcHit" Type="string" />
+		</MemberComponentTemplate>
+		
+	</EntityTemplate>
+	
+</Minecraft1_12HitUpdate>
