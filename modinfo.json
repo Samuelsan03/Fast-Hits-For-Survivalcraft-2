@@ -1,10 +1,10 @@
 {
-  "Name": "Minecraft1.9战斗更新模组",
-  "Version": "1.3",
-  "ApiVersion": "1.45",
-  "Description": "欢迎关注作者的主页(https://b23.tv/ylNCXdp或https://b23.tv/y9aJ1v) \n ",
-  "ScVersion": "2.3.0.0",
+  "Name": "Minecraft 1.9 Combat Update Mod",
+  "Version": "1.4",
+  "ApiVersion": "1.80",
+  "Description": "Feel free to follow the author's homepage (https://b23.tv/ylNCXdp or https://b23.tv/y9aJ1v)\n",
+  "ScVersion": "2.4.0.0",
   "Link": "https://b23.tv/y9aJ1v",
-  "Author": "多人君(Multi-Players)",
+  "Author": "多人君 (Multi-Players)",
   "PackageName": "Minecraft1_12HitUpdate"
 }
