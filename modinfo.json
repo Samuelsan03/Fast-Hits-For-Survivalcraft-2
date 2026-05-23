@@ -1,10 +1,12 @@
 {
-  "Name": "Minecraft 1.9 Combat Update Mod",
-  "Version": "1.4",
-  "ApiVersion": "1.80",
-  "Description": "Feel free to follow the author's homepage (https://b23.tv/ylNCXdp or https://b23.tv/y9aJ1v)\n",
+  "Name": "Fast  Hits",
+  "Version": "1.0",
+  "ApiVersion": "1.9.0",
+  "Description": "Now you can quickly hit your creatures without having to do multiple hit-and-run attacks while clicking or tapping the screen.",
   "ScVersion": "2.4.0.0",
-  "Link": "https://b23.tv/y9aJ1v",
-  "Author": "多人君 (Multi-Players)",
-  "PackageName": "Minecraft1_12HitUpdate"
+  "GameplayImpactLevel": "Cosmetic",
+  "Link": "https://github.com/Samuelsan03/Fast-Hits-For-Survivalcraft-2",
+  "Author": "Samuelsan03",
+  "PackageName": "fasthits",
+  "Dependencies": {}
 }
