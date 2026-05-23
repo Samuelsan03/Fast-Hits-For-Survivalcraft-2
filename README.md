@@ -1,2 +1,2 @@
-# Minecraft-1.9-Combat-For-Survivalcraft-2
-Tired of the simple combat in Survivalcraft 2 while getting hit by creatures? Does waiting three seconds to hit a creature feel tedious? Well, this mod changes things. Based on the combat of Minecraft 1.9, you'll notice the difference when you try the mod. If you hit a creature, you'll see that the combat changes and you can spam attacks like in Minecraft.
+# Fast Hits For Survivalcraft 2
+Now you can quickly hit your creatures without having to do multiple hit-and-run attacks while clicking or tapping the screen.
